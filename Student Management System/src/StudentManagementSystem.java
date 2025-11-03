@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class StudentManagementSystem {
     private static final String URL = "jdbc:mysql://localhost:3306/student_management";
     private static final String USER = "root";
-    private static final String PASSWORD = "Add Your Password";
+    private static final String PASSWORD = "$poorvA@2025";
 
     private static ArrayList<Student> students = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
